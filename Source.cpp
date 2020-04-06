@@ -7,9 +7,6 @@ int main()
 	char et; string req_word;
 	reTRIEval* dictionaryTREE;
 	saveNewWord filemanip;
-	do
-	{
-
 		system("cls");
 
 		system("color 5F");
@@ -45,6 +42,8 @@ int main()
 		cout << " \n\n\n\n ";
 		system("cls");
 		system("cls");
+	do
+	{
 		system("color 3F");
 		cout << "\n\t\t<--------------------DICTIONARY-------------------->\n\n\n\n";
 		cout << "        ===================================================================";
